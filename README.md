@@ -1,4 +1,4 @@
-#I followed those stepes to complete this task
+# I followed those stepes to complete this task
 * command-> mkdir Github-Tutorial (To create a folder in root directory named Github-Tutorial)
 * command-> touch Create-local-to-online.txt (To create a text file named Create-local-to-online.txt)
 * command-> code Create-local-to-online.txt ( To edit this .txt file with vs code)
