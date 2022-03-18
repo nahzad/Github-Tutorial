@@ -1,5 +1,3 @@
-Repo Name : Github-Tutorial 
-File name : Create-local-to-online.txt
 
 Step1: Open your gitbash command promot in desktop
 
